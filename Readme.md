@@ -23,8 +23,10 @@ The skin includes charts and layouts that primarily provide:
 3. **Install the Skin**: Double-click the `.rmskin` file to install the skin.
 4. **Enter Your WakaTime API Key**: 
     - Get your [wakatime api key](https://wakatime.com/settings/api-key)
-   - Paste your api key in the `API KEY` section in the skin settings layout (Make sure to press enter after pasting your api key) and validate.
-
+   - Paste your api key in the `API KEY` section in the skin settings layout.
+   - Validate with ok button.
+   
+   **⚠️ Important : You must press \<Enter> Key after pasting your api key for a validation!**
 ## Screenshots
 ### Overview
 ![general view](screenshots/01.png)
