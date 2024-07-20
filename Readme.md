@@ -1,7 +1,7 @@
 # Wakatime Rainmeter Skin
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-![GitHub License](https://img.shields.io/github/license/IgorGreenIGM/rainmeter-wakatime)
 [![Os](https://img.shields.io/badge/os-windows-blue)]()
+![GitHub License](https://img.shields.io/badge/license-CC_BY_NC_4.0-850606.svg)
 ![GitHub Release](https://img.shields.io/github/v/release/IgorGreenIGM/rainmeter-wakatime)
 ![GitHub last commit](https://img.shields.io/github/last-commit/IgorGreenIGM/rainmeter-wakatime)
 ![GitHub top language](https://img.shields.io/github/languages/top/IgorGreenIGM/rainmeter-wakatime)
@@ -19,7 +19,7 @@ The skin includes charts and layouts that primarily provide:
 
 ## Installation
 1. **Download Rainmeter**: [Download](https://www.rainmeter.net/) and install the lastest version of Rainmeter if you doesn't already have it.
-2. **Download the Skin**: [Download the latest version](#) of the Skin.
+2. **Download the Skin**: [Download the latest version](https://github.com/IgorGreenIGM/rainmeter-wakatime/releases) of the Skin.
 3. **Install the Skin**: Double-click the `.rmskin` file to install the skin.
 4. **Enter Your WakaTime API Key**: 
     - Get your [wakatime api key](https://wakatime.com/settings/api-key)
